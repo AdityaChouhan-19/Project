@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  margin: auto;
+  width: 900px;
+  text-align: center;
+}
+
+.v-center {
+  max-width: 900px;
+  margin: auto;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
