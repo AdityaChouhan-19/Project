@@ -34,3 +34,23 @@
   cursor: pointer;
   transition: background-color 0.3s ease 0s;
 }
+
+table{
+  width: 500px;
+  margin: auto;
+}
+
+table, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+  color: #ff2800;
+}
+
+th, td{
+  padding: 1%;
+}
+
+
